@@ -5,7 +5,7 @@ static int __init init_mod(void)
 	return 0;
 }
 
-static void__exit cleanup_mod(void)
+static void __exit cleanup_mod(void)
 {
 }
 
